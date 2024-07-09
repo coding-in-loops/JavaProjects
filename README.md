@@ -22,6 +22,9 @@ This repository showcases a variety of Java projects. Each project is designed t
 - **ProductFactory**: Implementation of the factory design pattern.
 - **ClothingProduct**: Implementation of a factory design pattern.
 - **ElectronicsProduct**: Another example of the factory design pattern.
+- **ParkingLotSystem**: Implementing design patterns -> creational patterns, structural patterns and behavioral design pattern.
+- **VehicleRentalSystem**: Vehicle renting application implementing all system design patterns.
+- **ShopWorld**: Creational design pattern.
 
 ### Other Projects
 - **WatchlistApplication**: Spring MVC project with Thymeleaf for managing a watchlist.
