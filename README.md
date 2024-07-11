@@ -7,7 +7,7 @@ Welcome to the Java Projects Repository! This repository contains a collection o
 2. [Projects](#projects)
     - [System Design Projects](#system-design-projects)
     - [DSA](#dsa-projects)
-    - [OOPs concepts](#ops-projects)
+    - [Core java and oops concepts](#core java and oops-concepts)
     - [Spring projects](#spring-projects)
 3. [Usage Instructions](#usage-instructions)
 4. [Installation](#installation)
@@ -28,13 +28,25 @@ This repository showcases a variety of Java projects. Each project is designed t
 - **VehicleRentalSystem**: Vehicle renting application implementing all system design patterns.
 - **ShopWorld**: Creational design pattern.
 
-### Other Projects
+### Spring Projects
 - **WatchlistApplication**: Spring MVC project with Thymeleaf for managing a watchlist.
+  
+### Core java and oops concepts
 - **ComplexPatternProgramming**: Pattern programming understanding and loops.
 - **FactoryDesignPattern**: Various implementations of the factory design pattern.
 - **GuessTheNumber**: Simple guessing game where a random number is guessed.
 - **HeartPattern**: Understanding loops by making a heart pattern.
 - **Polymorphism**: Examples of tight coupling and loose coupling in OOP.
+
+### DSA 
+- **CountWays**: Count number if ways.
+- **DsaFibonacciSum**: Fibonacci sum.
+- **DsaBubbleSort**: sorting the array using bubble sort.
+- **DsaInsertionSort**: sorting the array using insertion sort.
+- **DsaSelctionSort**: sorting the array using selection sort.
+- **DsaMajorityElement**: finding high frequency element in an array.
+
+
 
 
 ## Usage Instructions
