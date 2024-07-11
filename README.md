@@ -5,6 +5,8 @@ Welcome to the Java Projects Repository! This repository contains a collection o
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Projects](#projects)
+    - [System Design Projects](#system-design-projects)
+    - [Other Projects](#other-projects)
 3. [Usage Instructions](#usage-instructions)
 4. [Installation](#installation)
 5. [Technologies Used](#technologies-used)
@@ -14,17 +16,24 @@ Welcome to the Java Projects Repository! This repository contains a collection o
 This repository showcases a variety of Java projects. Each project is designed to demonstrate specific programming concepts or solve particular problems, making this repository a valuable resource for learning and reference.
 
 ## Projects
-- **WatchlistApplication**: Spring MVC project with Thymeleaf for managing a watchlist.
+### System Design Projects
+- **KISSDesignPrinciple**: Example of the KISS (Keep It Simple, Stupid) design principle.
+- **SingletonDesignPattern**: Implementation of the singleton design pattern.
+- **ProductFactory**: Implementation of the factory design pattern.
 - **ClothingProduct**: Implementation of a factory design pattern.
-- **ComplexPatternProgramming**: Pattern programming understanding and loops.
 - **ElectronicsProduct**: Another example of the factory design pattern.
+- **ParkingLotSystem**: Implementing design patterns -> creational patterns, structural patterns and behavioral design pattern.
+- **VehicleRentalSystem**: Vehicle renting application implementing all system design patterns.
+- **ShopWorld**: Creational design pattern.
+
+### Other Projects
+- **WatchlistApplication**: Spring MVC project with Thymeleaf for managing a watchlist.
+- **ComplexPatternProgramming**: Pattern programming understanding and loops.
 - **FactoryDesignPattern**: Various implementations of the factory design pattern.
 - **GuessTheNumber**: Simple guessing game where a random number is guessed.
 - **HeartPattern**: Understanding loops by making a heart pattern.
-- **KISSDesignPrinciple**: Example of the KISS (Keep It Simple, Stupid) design principle.
 - **Polymorphism**: Examples of tight coupling and loose coupling in OOP.
-- **ProductFactory**: Implementation of the factory design pattern.
-- **SingletonDesignPattern**: Implementation of the singleton design pattern.
+
 
 ## Usage Instructions
 To use or run any of these projects, follow the instructions provided in each project's directory. Each project has its own set of instructions, prerequisites, and setup information.
