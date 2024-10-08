@@ -1,0 +1,3 @@
+[submodule "example-web-application"]
+	path = example-web-application
+	url = https://github.com/coding-in-loops/JavaProjects
